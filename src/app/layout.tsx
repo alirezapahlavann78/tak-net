@@ -5,8 +5,8 @@ import "@/styles/globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Nextjs Typescript Tailwind Starter Project",
-  description: "Nextjs Typescript Tailwind Starter Project",
+  title: "Hi this is test for tak net",
+  description: "Hi this is test for tak net",
   icons: "/icons/favicon.ico",
 }
 
